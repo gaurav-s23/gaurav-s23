@@ -61,12 +61,10 @@ I am a **Systems-focused AI Engineer** specializing in bridging the gap between 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-s23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-s23&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-s23&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-s23&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
-
 ---
 
 ## 📫 Let's Connect
