@@ -1,18 +1,24 @@
 # Hi, I'm Gaurav Shukla 👋
-### Data Analyst | Python | SQL | Excel | Power BI
+### Data Analyst | Python | SQL | Power BI | PostgreSQL
 
 ---
 
 ## 🎯 About Me
 
-I am a Data Analyst with strong skills in Python, SQL, and data visualization. I specialize in transforming raw data into meaningful insights that support business decision-making.
+I don't just analyze data — I find the business problem hiding inside it.
 
-I have hands-on experience in data cleaning, exploratory data analysis (EDA), dashboard creation, and basic machine learning for predictive insights.
+B.Tech in AI & Machine Learning (2024) with hands-on experience in
+end-to-end data projects — from raw messy CSVs to executive dashboards
+that drive real decisions.
 
-- 🎓 B.Tech in AI & Machine Learning (2025)
-- 📊 Skilled in Python (Pandas, NumPy), SQL, Excel, Power BI
-- 📈 Focused on Data Analysis, Visualization & Business Insights
-- 🚀 Applied ML for predictive analytics on real-world datasets
+Currently building an **E-Commerce Return Fraud & Revenue Leakage Analysis**
+project — identifying fraud customers, quantifying revenue loss, and
+recommending actionable strategies using Python, SQL and Power BI.
+
+- 🎓 B.Tech — AI & Machine Learning (2024)
+- 📊 Python • SQL • Excel • Power BI • PostgreSQL
+- 🚀 EDA • Dashboard Development • Predictive Modelling
+- 📍 Open to Relocation | Immediate Joiner
 
 > *"Data without context is noise. I turn noise into clarity."*
 
@@ -23,35 +29,54 @@ I have hands-on experience in data cleaning, exploratory data analysis (EDA), da
 | Metric | Value |
 | :--- | :--- |
 | 🎯 Best Model Accuracy | 92%+ (SMAT.AI — Random Forest) |
-| 🧹 Datasets Cleaned | 5+ Real-world projects |
-| 🤖 ML Models Compared | 4 (LR, SVM, RF, XGBoost) |
+| 📦 Largest Dataset Handled | 1,12,650 orders (E-Commerce Project) |
+| 💸 Revenue Loss Identified | R$1,595,091 (Return Fraud Analysis) |
+| 🚨 Fraud Customers Flagged | 18,944 High Risk customers |
+| 🧹 Datasets Cleaned & Merged | 10+ real-world datasets |
 | 📊 Dashboards Built | 3+ (Streamlit + Power BI) |
+| 🤖 ML Models Compared | 4 (LR, SVM, RF, XGBoost) |
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🏭 [SMAT.AI](http://SMAT.AI) – Predictive Maintenance System
-*Industrial data analysis & machine learning project* | **92% Accuracy**
+### 🛒 E-Commerce Return Fraud & Revenue Leakage Analysis
+*End-to-end Data Analytics Project* | **In Progress**
 
-- Performed data preprocessing and EDA on machine sensor datasets
-- Analyzed failure patterns and key influencing factors
-- Built KPI dashboards using Streamlit to monitor equipment health in real time
-- Trained and evaluated Random Forest & XGBoost classifiers for predictive maintenance
-- Automated CSV-based insight reporting for stakeholder decision-making
+> 1 in 5 orders is being returned. R$1.59M lost to refunds.
+> 18,944 suspicious customers. Nobody was tracking it — until now.
+
+- Merged 10+ datasets into a master table of 1,12,650 orders
+- Identified High Risk fraud customers using return rate analysis
+- Quantified R$1,595,091 revenue lost to refunds
+- Loaded 5 analytical tables into PostgreSQL (Supabase)
+- Power BI dashboard & SQL business queries in progress
+
+**Stack:** `Python` `Pandas` `PostgreSQL` `Supabase` `Power BI` `GitHub`
+
+🔗 [View Project](https://github.com/gaurav-s23/ecommerce-fraud-analysis)
+
+---
+
+### 🏭 SMAT.AI – Predictive Maintenance System
+*Industrial Data Analysis & Machine Learning* | **92% Accuracy**
+
+- Performed EDA on machine sensor datasets to identify failure patterns
+- Built real-time KPI dashboards using Streamlit
+- Trained Random Forest & XGBoost — achieved 92% accuracy
+- Automated CSV-based insight reporting for stakeholder decisions
 
 **Stack:** `Pandas` `Scikit-learn` `Streamlit` `PostgreSQL` `XGBoost`
 
 ---
 
 ### 🩺 Diabetes Prediction Analysis
-*Healthcare data analysis & classification project*
+*Healthcare Data Analysis & Classification*
 
-- Performed data cleaning and preprocessing on medical dataset
-- Conducted exploratory data analysis (EDA) to identify trends and risk factors
-- Visualized feature relationships using Matplotlib & Seaborn
-- Built and compared ML models: Logistic Regression, SVM, Random Forest
-- Evaluated performance using Accuracy, Precision, Recall, F1-score
+- Cleaned and preprocessed medical dataset
+- Conducted EDA to identify key risk factors
+- Built and compared 4 ML models — LR, SVM, RF, XGBoost
+- Evaluated using Accuracy, Precision, Recall, F1-score
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
@@ -64,27 +89,62 @@ I have hands-on experience in data cleaning, exploratory data analysis (EDA), da
 | **Languages** | Python, SQL |
 | **Data Analysis** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn, Power BI |
-| **Tools** | Excel, Streamlit |
-| **ML (Basic)** | Scikit-learn, XGBoost |
+| **Database** | PostgreSQL, Supabase |
+| **Tools** | Excel, Streamlit, Google Colab |
+| **ML** | Scikit-learn, XGBoost |
+| **Version Control** | Git, GitHub |
 
 ---
 
-## 📈 What I Do
+## 📈 GitHub Stats & Activity
 
-- ✅ Data Cleaning & Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Dashboard Development (Streamlit / Power BI)
-- ✅ Data Visualization (Matplotlib, Seaborn)
-- ✅ Business Insights Generation
-- ✅ Predictive Modelling (Basic ML)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-s23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-s23&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-s23&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: [gaurav-shukla-406934290](https://www.linkedin.com/in/gaurav-shukla-406934290/)
-- 📧 Email: [gaurav.shuklaml@gmail.com](mailto:gaurav.shuklaml@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-shukla-406934290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gaurav.shuklaml@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gaurav-s23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *Open to Data Analyst roles | Immediate Joiner | Open to Relocation*
+<p align="center">
+⭐ <i>Open to Data Analyst | Business Analyst roles | Immediate Joiner | Open to Relocation</i>
+</p>
