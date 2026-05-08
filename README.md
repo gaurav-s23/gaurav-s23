@@ -1,102 +1,140 @@
 # Hi, I'm Gaurav Shukla 👋
-### Data Analyst | Python | SQL | Power BI | PostgreSQL
+
+<h3 align="left">
+Data Analyst • SQL • Python • Power BI • Streamlit • PostgreSQL
+</h3>
+
+<p align="left">
+Transforming raw business data into actionable insights through analytics, dashboarding, and operational intelligence.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=3200&pause=900&color=3B82F6&width=850&lines=Data+Analytics+%7C+Business+Intelligence+%7C+KPI+Dashboards;SQL+%7C+Power+BI+%7C+Python+%7C+Streamlit+%7C+PostgreSQL;Revenue+Analytics+%7C+Fraud+Analysis+%7C+Growth+Tracking;Business+Performance+Analytics+%7C+Operational+Insights" />
 
 ---
 
-## 🎯 About Me
+# 🎯 About Me
 
-I don't just analyze data — I find the business problem hiding inside it.
+I enjoy solving business problems using data.
 
-B.Tech in AI & Machine Learning (2024) with hands-on experience in
-end-to-end data projects — from raw messy CSVs to executive dashboards
-that drive real decisions.
+B.Tech graduate in Artificial Intelligence & Machine Learning with hands-on experience building analytics projects involving revenue analysis, fraud detection, operational monitoring, KPI reporting, and business performance tracking.
 
-Currently building an **E-Commerce Return Fraud & Revenue Leakage Analysis**
-project — identifying fraud customers, quantifying revenue loss, and
-recommending actionable strategies using Python, SQL and Power BI.
+My work focuses on:
+- Business Analytics
+- Dashboard Development
+- SQL-Based Data Analysis
+- Operational KPI Tracking
+- Revenue & Growth Analysis
+- Executive Reporting Dashboards
 
-- 🎓 B.Tech — AI & Machine Learning (2024)
-- 📊 Python • SQL • Excel • Power BI • PostgreSQL
-- 🚀 EDA • Dashboard Development • Predictive Modelling
-- 📍 Open to Relocation | Immediate Joiner
-
-> *"Data without context is noise. I turn noise into clarity."*
+Currently building real-world analytics projects using:
+- SQL
+- Python
+- Power BI
+- Streamlit
+- PostgreSQL
 
 ---
 
-## 📊 Impact Metrics
+# 📊 Impact Metrics
 
 | Metric | Value |
 | :--- | :--- |
-| 🎯 Best Model Accuracy | 92%+ (SMAT.AI — Random Forest) |
-| 📦 Largest Dataset Handled | 1,12,650 orders (E-Commerce Project) |
-| 💸 Revenue Loss Identified | R$1,595,091 (Return Fraud Analysis) |
-| 🚨 Fraud Customers Flagged | 18,944 High Risk customers |
-| 🧹 Datasets Cleaned & Merged | 10+ real-world datasets |
-| 📊 Dashboards Built | 3+ (Streamlit + Power BI) |
-| 🤖 ML Models Compared | 4 (LR, SVM, RF, XGBoost) |
+| 📦 Largest Dataset Handled | 1,12,650+ Orders |
+| 💸 Revenue Leakage Analysed | R$1.59M |
+| 🚨 High-Risk Customers Identified | 18,944 |
+| 📊 Dashboards Built | 4+ |
+| 🧹 Datasets Cleaned & Processed | 10+ |
+| 🏭 Business Segments Analysed | Food Delivery, Quick Commerce, Operations |
+| 📈 KPI Metrics Tracked | Revenue, EBITDA, NOV, Return Rate, Growth Trends |
 
 ---
 
-## 🏆 Featured Projects
+# 🏆 Featured Projects
 
-### 🛒 E-Commerce Return Fraud & Revenue Leakage Analysis
-*End-to-end Data Analytics Project* | **In Progress**
+## 🛒 E-Commerce Return Fraud & Revenue Leakage Analysis
 
-> 1 in 5 orders is being returned. R$1.59M lost to refunds.
-> 18,944 suspicious customers. Nobody was tracking it — until now.
+Business-focused analytics project analysing fraud risk behaviour, refund leakage, return patterns, and operational KPIs using SQL and Power BI.
 
-- Merged 10+ datasets into a master table of 1,12,650 orders
-- Identified High Risk fraud customers using return rate analysis
-- Quantified R$1,595,091 revenue lost to refunds
-- Loaded 5 analytical tables into PostgreSQL (Supabase)
-- Power BI dashboard & SQL business queries in progress
+### Key Highlights
+- Processed and merged 1,12,650+ order records into analytical datasets
+- Identified 18,944 high-risk customers through return behaviour analysis
+- Quantified R$1.59M revenue leakage from refund activity
+- Built interactive Power BI dashboards for executive KPI monitoring
+- Analysed category-level return trends, payment behaviour, and return reasons
 
-**Stack:** `Python` `Pandas` `PostgreSQL` `Supabase` `Power BI` `GitHub`
+### Tech Stack
+`Python` `SQL` `Power BI` `PostgreSQL` `Pandas`
 
-🔗 [View Project](https://github.com/gaurav-s23/ecommerce-fraud-analysis)
+🔗 Project Repository  
+https://github.com/gaurav-s23/ecommerce-fraud-analysis
 
 ---
 
-### 🏭 SMAT.AI – Predictive Maintenance System
-*Industrial Data Analysis & Machine Learning* | **92% Accuracy**
+## 📈 Eternal Limited — Business Performance Analytics
 
-- Performed EDA on machine sensor datasets to identify failure patterns
+Interactive business analytics dashboard built using publicly available shareholder reporting data of Eternal Limited (NSE: ETERNAL).
+
+### Key Highlights
+- Analysed YoY and QoQ growth trends across Zomato, Blinkit, District, and Hyperpure
+- Built KPI dashboards tracking NOV, EBITDA, revenue growth, and cash flow
+- Visualised Blinkit store expansion and operational growth trends
+- Developed executive-style scorecards using Streamlit dashboards
+- Performed segment-wise profitability and contribution analysis
+
+### Tech Stack
+`Python` `SQL` `Streamlit` `Pandas` `Plotly`
+
+🔗 Project Repository  
+https://github.com/gaurav-s23/eternal-business-performance-analytics
+
+---
+
+## 🏭 SMAT.AI — Operational Analytics & Predictive Maintenance Dashboard
+
+Industrial analytics project focused on operational monitoring, sensor trend analysis, and predictive maintenance insights.
+
+### Key Highlights
+- Performed exploratory analysis on industrial machine sensor datasets
 - Built real-time KPI dashboards using Streamlit
-- Trained Random Forest & XGBoost — achieved 92% accuracy
-- Automated CSV-based insight reporting for stakeholder decisions
+- Identified operational anomaly and machine failure patterns
+- Developed predictive models for early-risk identification
+- Automated reporting workflows for operational monitoring
 
-**Stack:** `Pandas` `Scikit-learn` `Streamlit` `PostgreSQL` `XGBoost`
-
----
-
-### 🩺 Diabetes Prediction Analysis
-*Healthcare Data Analysis & Classification*
-
-- Cleaned and preprocessed medical dataset
-- Conducted EDA to identify key risk factors
-- Built and compared 4 ML models — LR, SVM, RF, XGBoost
-- Evaluated using Accuracy, Precision, Recall, F1-score
-
-**Stack:** `Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
+### Tech Stack
+`Python` `Pandas` `Streamlit` `PostgreSQL` `Scikit-learn`
 
 ---
 
-## 🛠️ Tech Stack
+## 🩺 Customer Churn & Retention Analytics
 
-| Domain | Tools |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy |
-| **Visualization** | Matplotlib, Seaborn, Power BI |
-| **Database** | PostgreSQL, Supabase |
-| **Tools** | Excel, Streamlit, Google Colab |
-| **ML** | Scikit-learn, XGBoost |
-| **Version Control** | Git, GitHub |
+Customer analytics project focused on identifying churn behaviour patterns and retention-related business insights.
+
+### Key Highlights
+- Analysed customer churn trends across contract types, tenure, and service categories
+- Performed EDA and customer segmentation using Python and SQL
+- Compared multiple ML models for churn classification analysis
+- Identified major customer retention risk indicators and behavioural patterns
+
+### Tech Stack
+`Python` `SQL` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
-## 📈 GitHub Stats & Activity
+# 🛠️ Technical Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| Languages | Python, SQL |
+| Data Analysis | Pandas, NumPy |
+| Dashboarding | Power BI, Streamlit |
+| Visualisation | Plotly, Matplotlib, Seaborn |
+| Database | PostgreSQL, Supabase |
+| Business Analytics | KPI Analysis, Revenue Analysis, Growth Tracking |
+| Tools | Excel, Git, GitHub |
+
+---
+
+# 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-s23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -109,41 +147,48 @@ recommending actionable strategies using Python, SQL and Power BI.
 
 ---
 
-## 🧰 Tools & Technologies
+# ⚡ Tools & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-shukla-406934290/">
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaurav-shukla-406934290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:gaurav.shuklaml@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/gaurav-s23">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<p align="left">
+Open to Data Analyst • Business Analyst • Analytics Engineering roles
+</p>
+
+<p align="left">
+Focused on building business-driven analytics projects with real-world datasets, KPI dashboards, and operational insights.
+</p>
 
 <p align="center">
 ⭐ <i>Open to Data Analyst | Business Analyst roles | Immediate Joiner | Open to Relocation</i>
